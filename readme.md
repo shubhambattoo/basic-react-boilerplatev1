@@ -1,3 +1,3 @@
 A Simple React APP
 
-<h1> Indecision APP </h1>
+<h1> React Boilerplate v1 </h1>
